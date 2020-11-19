@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "Hello from test_git"
+echo "Hello, ${1:-world}!"
