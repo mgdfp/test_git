@@ -2,3 +2,4 @@ Things to try:
 - branching
 - rebasing
 - tagging
+- stashing
